@@ -14,7 +14,7 @@ of all the techniques applied as well as results for several
 combinations of methods.
 
 # How to run
-1. Due to external dependencies you need to run *startup.m* to load those dependencies into the
+1. You need to run *startup.m* to load some external dependencies into the
 Matlab environment.
 2. Run *main.m* to start the program.
 
