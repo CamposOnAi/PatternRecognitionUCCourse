@@ -1,7 +1,8 @@
 # Predicting default of credit card payment
 
 This project was done in a introductory course to machine learning
-for my Master's degree.
+for my Master's degree. This GUI should work for other datasets but 
+guarantees are made.
 The assignment was to create a simple GUI that implemented
 all the ML techniques we learned during the semester. 
 
@@ -36,7 +37,7 @@ It contains all the basic steps of a typical ML project:
     2. Linear discriminant analysis (LDA).
 5. Classifier
     1. Minimum distance
-    2. Bayes
+    2. Naive Bayes
     3. K-nearest neighbor (KNN)
     4. Support Vector Machine (SVM)
 
