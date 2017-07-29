@@ -1,7 +1,8 @@
 # Predicting default of credit card payment
 
 This project was done in a introductory course to machine learning
-for my Master's degree.
+for my Master's degree. This GUI should work for other datasets but 
+guarantees are made.
 The assignment was to create a simple GUI that implemented
 all the ML techniques we learned during the semester. 
 
